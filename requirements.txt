@@ -1,6 +1,5 @@
 numpy
-os
-PIL
+Pillow
 requests
 streamlit
 tensorflow
