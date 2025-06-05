@@ -2,4 +2,3 @@ numpy
 Pillow
 requests
 streamlit
-tensorflow==2.15.0
