@@ -1,5 +1,5 @@
-numpy
 Pillow
 requests
 streamlit
-tensorflow
+tensorflow==2.10.0
+numpy==1.23.0
